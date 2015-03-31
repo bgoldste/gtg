@@ -1,2 +1,4 @@
 Django==1.7.7
+django-autoslug==1.7.2
+urllib3==1.10.2
 wsgiref==0.1.2
